@@ -1,0 +1,585 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-04-26T17:10:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/301920661",
+        "alt_name": "Universitas Islam Negeri Ar-Raniry",
+        "amenity": "university",
+        "name": "UIN Ar-Raniry",
+        "name:en": "Ar-Raniry State Islamic University of Aceh",
+        "wikidata": "Q52664839",
+        "wikipedia": "id:Universitas Islam Negeri Ar-Raniry",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3672523,
+          5.5781368
+        ]
+      },
+      "id": "way/301920661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306295556",
+        "addr:city": "Banda Aceh",
+        "addr:full": "jl Teuku Nyak Arief",
+        "amenity": "university",
+        "name": "Universitas Syiah Kuala",
+        "name:en": "Syiah Kuala University",
+        "source": "survey",
+        "wikidata": "Q3958218",
+        "wikipedia": "id:Universitas Syiah Kuala",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3712671,
+          5.5690839
+        ]
+      },
+      "id": "way/306295556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/309307083",
+        "addr:city": "Banda Aceh",
+        "amenity": "university",
+        "name": "Politeknik Kesehatan Banda Aceh",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3416845,
+          5.5078025
+        ]
+      },
+      "id": "way/309307083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317120385",
+        "access:roof": "yes",
+        "addr:full": "jalan politeknik",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "POLITEKNIK ACEH",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3461664,
+          5.5356681
+        ]
+      },
+      "id": "way/317120385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/386522321",
+        "access:roof": "no",
+        "addr:full": "jln. Bahagia",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "Universitas Terbuka",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3051214,
+          5.550242
+        ]
+      },
+      "id": "way/386522321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/405645895",
+        "access:roof": "no",
+        "addr:full": "JL. Tentara Pelajar Lr. Dahlia NO 5",
+        "amenity": "college",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "brick",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "50-100",
+        "name": "STKIP Bina Bangsa GETSEMPENA",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3154431,
+          5.5586508
+        ]
+      },
+      "id": "way/405645895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/405716517",
+        "access:roof": "yes",
+        "addr:full": "jln haji zakaria",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "<50",
+        "name": "taman pendidikan alquran",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3408639,
+          5.546957
+        ]
+      },
+      "id": "way/405716517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/405717275",
+        "access:roof": "yes",
+        "addr:full": "gampong lamsepeung",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "1",
+        "building:material": "wood",
+        "building:roof": "tin",
+        "building:structure": "wood_frame",
+        "capacity:persons": "<50",
+        "name": "balai pendidikan",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3363653,
+          5.5497613
+        ]
+      },
+      "id": "way/405717275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/405925366",
+        "access:roof": "yes",
+        "addr:full": "jln tgk imuem lueng bata",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "building:roof": "tile",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "100-250",
+        "name": "universitas serambi mekkah",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3335821,
+          5.5475679
+        ]
+      },
+      "id": "way/405925366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/406057972",
+        "access:roof": "no",
+        "addr:full": "Jalan Mr Muhammad Hasan batoh",
+        "amenity": "college",
+        "building:condition": "good",
+        "building:levels": "3",
+        "building:material": "brick",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "50-100",
+        "name": "SMK IT kesehatan Assyifa",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3299803,
+          5.5386748
+        ]
+      },
+      "id": "way/406057972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490813681",
+        "access:roof": "no",
+        "addr:full": "tibang",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "1",
+        "building:material": "brick",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "STIM",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3519656,
+          5.5853702
+        ]
+      },
+      "id": "way/490813681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/497568187",
+        "access:roof": "yes",
+        "addr:full": "jl tengku nyak arief",
+        "amenity": "university",
+        "building": "university",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "AMIKI",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3533832,
+          5.5812488
+        ]
+      },
+      "id": "way/497568187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/510997823",
+        "access:roof": "yes",
+        "addr:full": "jln sultan hotel peunayong",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "brick",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "LP3i",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3204628,
+          5.5575026
+        ]
+      },
+      "id": "way/510997823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594111698",
+        "addr:full": "tibang",
+        "amenity": "university",
+        "name": "Universitas Ubudiyah Indonesia",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3511926,
+          5.5864779
+        ]
+      },
+      "id": "way/594111698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/594111700",
+        "addr:full": "tibang",
+        "amenity": "college",
+        "name": "yayasan sekolah tinggi teknik iskandar thani",
+        "operator:type": "government",
+        "school:type_idn": "sma",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3509359,
+          5.5872471
+        ]
+      },
+      "id": "way/594111700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/623031283",
+        "access:roof": "yes",
+        "addr:full": "jln tgk chik ditiro kel peniti",
+        "amenity": "college",
+        "building": "college",
+        "building:condition": "good",
+        "building:levels": "3",
+        "building:material": "brick",
+        "building:roof": "concrete",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "250-500",
+        "name": "Akafarma",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3227065,
+          5.5515127
+        ]
+      },
+      "id": "way/623031283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624302982",
+        "access:roof": "no",
+        "addr:full": "Jl.geuchik M. yahya",
+        "amenity": "university",
+        "building": "yes",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "brick",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": "100-250",
+        "name": "Pesantren Raudhatu Jannah",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3240952,
+          5.5362624
+        ]
+      },
+      "id": "way/624302982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/624302991",
+        "access:roof": "no",
+        "addr:full": "Jl.Sultan malikul saleh",
+        "amenity": "college",
+        "building": "school",
+        "building:condition": "good",
+        "building:levels": "2",
+        "building:material": "concrete",
+        "building:roof": "tin",
+        "building:structure": "steel_frame",
+        "capacity:persons": "100-250",
+        "name": "SMK 1 Banda Aceh",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3214114,
+          5.5215953
+        ]
+      },
+      "id": "way/624302991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625023204",
+        "addr:full": "JLN.KAMPUS UNIDA",
+        "amenity": "university",
+        "name": "Universitas Iskandar Muda",
+        "source": "survey",
+        "wikidata": "Q12523334",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3006733,
+          5.5412283
+        ]
+      },
+      "id": "way/625023204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625509078",
+        "access:roof": "no",
+        "addr:full": "jl kampus ummuha batoh",
+        "amenity": "college",
+        "name": "Universitas Muhammadiyah Aceh",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3327577,
+          5.5352813
+        ]
+      },
+      "id": "way/625509078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625509081",
+        "access:roof": "no",
+        "addr:full": "jl kampus ummuha batoh",
+        "amenity": "college",
+        "name": "Universitas Serambi Mekkah",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.333203,
+          5.5369294
+        ]
+      },
+      "id": "way/625509081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/628461008",
+        "access:roof": "yes",
+        "addr:full": "jln kebon raja no doy uleekareng banda aceh",
+        "amenity": "college",
+        "building": "school",
+        "building:condition": "good",
+        "building:levels": "3",
+        "building:material": "concrete",
+        "building:roof": "tin",
+        "building:structure": "confined_masonry",
+        "capacity:persons": ">500",
+        "name": "pondok pesantren modern",
+        "operator:type": "private",
+        "school:type_idn": "sma",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3536318,
+          5.5549222
+        ]
+      },
+      "id": "way/628461008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783782438",
+        "addr:full": "jln mayjen T hamzah bendahara lrg bahagia",
+        "amenity": "college",
+        "name": "Akper Kesdam Iskandar Muda",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3257634,
+          5.5544972
+        ]
+      },
+      "id": "way/783782438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5901591837",
+        "addr:full": "jln mohd hasan",
+        "amenity": "university",
+        "name": "yayasan pembangunan serambi mekkah",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3299662,
+          5.545291
+        ]
+      },
+      "id": "node/5901591837"
+    }
+  ]
+}
